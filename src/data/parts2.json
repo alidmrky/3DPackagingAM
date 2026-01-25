@@ -1,0 +1,102 @@
+[
+    {
+        "parca": 1,
+        "kenar1": 17.35,
+        "kenar2": 17.35,
+        "yukseklik": 16.7,
+        "alan": 1573.8,
+        "unit": "cm",
+        "releaseDate": 6.3,
+        "dueDate": 305.9
+    },
+    {
+        "parca": 2,
+        "kenar1": 12.36,
+        "kenar2": 12.36,
+        "yukseklik": 8.8,
+        "alan": 421.5,
+        "unit": "cm",
+        "releaseDate": 7.3,
+        "dueDate": 282.2
+    },
+    {
+        "parca": 3,
+        "kenar1": 4.42,
+        "kenar2": 4.42,
+        "yukseklik": 20.3,
+        "alan": 147.8,
+        "unit": "cm",
+        "releaseDate": 9.8,
+        "dueDate": 378.3
+    },
+    {
+        "parca": 4,
+        "kenar1": 9.18,
+        "kenar2": 9.18,
+        "yukseklik": 7.4,
+        "alan": 285.2,
+        "unit": "cm",
+        "releaseDate": 20.9,
+        "dueDate": 214.7
+    },
+    {
+        "parca": 5,
+        "kenar1": 7.82,
+        "kenar2": 7.82,
+        "yukseklik": 27.3,
+        "alan": 583.3,
+        "unit": "cm",
+        "releaseDate": 36.5,
+        "dueDate": 149.0
+    },
+    {
+        "parca": 6,
+        "kenar1": 17.3,
+        "kenar2": 17.3,
+        "yukseklik": 25.8,
+        "alan": 3282.5,
+        "unit": "cm",
+        "releaseDate": 51.5,
+        "dueDate": 211.6
+    },
+    {
+        "parca": 7,
+        "kenar1": 12.2,
+        "kenar2": 12.2,
+        "yukseklik": 14.5,
+        "alan": 1265.5,
+        "unit": "cm",
+        "releaseDate": 56.3,
+        "dueDate": 240.4
+    },
+    {
+        "parca": 8,
+        "kenar1": 19.4,
+        "kenar2": 19.4,
+        "yukseklik": 3.5,
+        "alan": 723.3,
+        "unit": "cm",
+        "releaseDate": 69.9,
+        "dueDate": 576.2
+    },
+    {
+        "parca": 9,
+        "kenar1": 4.53,
+        "kenar2": 4.53,
+        "yukseklik": 20.4,
+        "alan": 278.5,
+        "unit": "cm",
+        "releaseDate": 75.0,
+        "dueDate": 330.9
+    },
+    {
+        "parca": 10,
+        "kenar1": 9.55,
+        "kenar2": 9.55,
+        "yukseklik": 23.3,
+        "alan": 1051.8,
+        "unit": "cm",
+        "releaseDate": 86.0,
+        "dueDate": 388.0
+    }
+]

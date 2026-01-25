@@ -1,0 +1,142 @@
+[
+    {
+        "parca": 1,
+        "kenar1": 188,
+        "kenar2": 160,
+        "alan": 30080,
+        "yukseklik": 167
+    },
+    {
+        "parca": 2,
+        "kenar1": 67,
+        "kenar2": 228,
+        "alan": 15276,
+        "yukseklik": 88
+    },
+    {
+        "parca": 3,
+        "kenar1": 93,
+        "kenar2": 21,
+        "alan": 1953,
+        "yukseklik": 203
+    },
+    {
+        "parca": 4,
+        "kenar1": 216,
+        "kenar2": 39,
+        "alan": 8424,
+        "yukseklik": 74
+    },
+    {
+        "parca": 5,
+        "kenar1": 149,
+        "kenar2": 41,
+        "alan": 6109,
+        "yukseklik": 273
+    },
+    {
+        "parca": 6,
+        "kenar1": 232,
+        "kenar2": 129,
+        "alan": 29928,
+        "yukseklik": 258
+    },
+    {
+        "parca": 7,
+        "kenar1": 222,
+        "kenar2": 67,
+        "alan": 14874,
+        "yukseklik": 145
+    },
+    {
+        "parca": 8,
+        "kenar1": 246,
+        "kenar2": 153,
+        "alan": 37638,
+        "yukseklik": 35
+    },
+    {
+        "parca": 9,
+        "kenar1": 205,
+        "kenar2": 10,
+        "alan": 2050,
+        "yukseklik": 204
+    },
+    {
+        "parca": 10,
+        "kenar1": 68,
+        "kenar2": 134,
+        "alan": 9112,
+        "yukseklik": 233
+    },
+    {
+        "parca": 11,
+        "kenar1": 40,
+        "kenar2": 50,
+        "alan": 2000,
+        "yukseklik": 263
+    },
+    {
+        "parca": 12,
+        "kenar1": 59,
+        "kenar2": 210,
+        "alan": 12390,
+        "yukseklik": 128
+    },
+    {
+        "parca": 13,
+        "kenar1": 218,
+        "kenar2": 153,
+        "alan": 33354,
+        "yukseklik": 284
+    },
+    {
+        "parca": 14,
+        "kenar1": 232,
+        "kenar2": 32,
+        "alan": 7424,
+        "yukseklik": 109
+    },
+    {
+        "parca": 15,
+        "kenar1": 196,
+        "kenar2": 137,
+        "alan": 26852,
+        "yukseklik": 141
+    },
+    {
+        "parca": 16,
+        "kenar1": 36,
+        "kenar2": 31,
+        "alan": 1116,
+        "yukseklik": 39
+    },
+    {
+        "parca": 17,
+        "kenar1": 106,
+        "kenar2": 131,
+        "alan": 13886,
+        "yukseklik": 32
+    },
+    {
+        "parca": 18,
+        "kenar1": 73,
+        "kenar2": 126,
+        "alan": 9198,
+        "yukseklik": 246
+    },
+    {
+        "parca": 19,
+        "kenar1": 212,
+        "kenar2": 200,
+        "alan": 42400,
+        "yukseklik": 71
+    },
+    {
+        "parca": 20,
+        "kenar1": 216,
+        "kenar2": 84,
+        "alan": 18144,
+        "yukseklik": 252
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "xKen": 25,
+        "yKenar": 25,
+        "maxYukseklik": 32.5,
+        "alan": 625,
+        "vtm": 0.030864,
+        "htm": 0.7,
+        "set": 1.2,
+        "unit": "cm"
+    },
+    {
+        "id": 2,
+        "xKen": 25,
+        "yKenar": 25,
+        "maxYukseklik": 32.5,
+        "alan": 625,
+        "vtm": 0.030864,
+        "htm": 0.7,
+        "set": 1.0,
+        "unit": "cm"
+    },
+    {
+        "id": 3,
+        "xKen": 25,
+        "yKenar": 25,
+        "maxYukseklik": 32.5,
+        "alan": 625,
+        "vtm": 0.030864,
+        "htm": 0.7,
+        "set": 1.2,
+        "unit": "cm"
+    }
+]

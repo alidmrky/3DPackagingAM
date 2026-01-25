@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "xKen": 400,
+        "yKenar": 400,
+        "maxYukseklik": 400,
+        "alan": 160000,
+        "vtm": 0.30450,
+        "htm": 1,
+        "set": 2
+    },
+    {
+        "id": 2,
+        "xKen": 400,
+        "yKenar": 500,
+        "maxYukseklik": 400,
+        "alan": 200000,
+        "vtm": 0.30864,
+        "htm": 1,
+        "set": 1
+    }
+]

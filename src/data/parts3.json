@@ -1,0 +1,182 @@
+[
+    {
+        "parca": 1,
+        "kenar1": 4.42,
+        "kenar2": 4.42,
+        "yukseklik": 20.3,
+        "alan": 147.8,
+        "unit": "cm",
+        "releaseDate": 9.8,
+        "dueDate": 378.3
+    },
+    {
+        "parca": 2,
+        "kenar1": 9.18,
+        "kenar2": 9.18,
+        "yukseklik": 7.4,
+        "alan": 285.2,
+        "unit": "cm",
+        "releaseDate": 21.0,
+        "dueDate": 214.7
+    },
+    {
+        "parca": 3,
+        "kenar1": 7.82,
+        "kenar2": 7.82,
+        "yukseklik": 27.3,
+        "alan": 583.3,
+        "unit": "cm",
+        "releaseDate": 36.6,
+        "dueDate": 149.0
+    },
+    {
+        "parca": 4,
+        "kenar1": 17.3,
+        "kenar2": 17.3,
+        "yukseklik": 25.8,
+        "alan": 3282.5,
+        "unit": "cm",
+        "releaseDate": 51.5,
+        "dueDate": 576.2
+    },
+    {
+        "parca": 5,
+        "kenar1": 12.2,
+        "kenar2": 12.2,
+        "yukseklik": 14.5,
+        "alan": 1265.5,
+        "unit": "cm",
+        "releaseDate": 56.4,
+        "dueDate": 240.4
+    },
+    {
+        "parca": 6,
+        "kenar1": 19.4,
+        "kenar2": 19.4,
+        "yukseklik": 3.5,
+        "alan": 723.3,
+        "unit": "cm",
+        "releaseDate": 69.9,
+        "dueDate": 211.6
+    },
+    {
+        "parca": 7,
+        "kenar1": 4.53,
+        "kenar2": 4.53,
+        "yukseklik": 20.4,
+        "alan": 278.5,
+        "unit": "cm",
+        "releaseDate": 75.1,
+        "dueDate": 330.9
+    },
+    {
+        "parca": 8,
+        "kenar1": 9.55,
+        "kenar2": 9.55,
+        "yukseklik": 23.3,
+        "alan": 1051.8,
+        "unit": "cm",
+        "releaseDate": 86.0,
+        "dueDate": 388.0
+    },
+    {
+        "parca": 9,
+        "kenar1": 4.47,
+        "kenar2": 4.47,
+        "yukseklik": 26.3,
+        "alan": 201.9,
+        "unit": "cm",
+        "releaseDate": 93.0,
+        "dueDate": 447.1
+    },
+    {
+        "parca": 10,
+        "kenar1": 11.1,
+        "kenar2": 11.1,
+        "yukseklik": 12.8,
+        "alan": 866.1,
+        "unit": "cm",
+        "releaseDate": 93.1,
+        "dueDate": 445.1
+    },
+    {
+        "parca": 11,
+        "kenar1": 18.26,
+        "kenar2": 18.26,
+        "yukseklik": 28.4,
+        "alan": 7347.6,
+        "unit": "cm",
+        "releaseDate": 97.2,
+        "dueDate": 634.6
+    },
+    {
+        "parca": 12,
+        "kenar1": 8.61,
+        "kenar2": 8.61,
+        "yukseklik": 10.9,
+        "alan": 333.6,
+        "unit": "cm",
+        "releaseDate": 97.3,
+        "dueDate": 177.6
+    },
+    {
+        "parca": 13,
+        "kenar1": 16.39,
+        "kenar2": 16.39,
+        "yukseklik": 14.1,
+        "alan": 2956.0,
+        "unit": "cm",
+        "releaseDate": 101.8,
+        "dueDate": 355.3
+    },
+    {
+        "parca": 14,
+        "kenar1": 3.35,
+        "kenar2": 3.35,
+        "yukseklik": 3.9,
+        "alan": 32.5,
+        "unit": "cm",
+        "releaseDate": 107.0,
+        "dueDate": 258.8
+    },
+    {
+        "parca": 15,
+        "kenar1": 11.79,
+        "kenar2": 11.79,
+        "yukseklik": 3.2,
+        "alan": 265.6,
+        "unit": "cm",
+        "releaseDate": 107.6,
+        "dueDate": 295.6
+    },
+    {
+        "parca": 16,
+        "kenar1": 9.59,
+        "kenar2": 9.59,
+        "yukseklik": 24.6,
+        "alan": 1387.4,
+        "unit": "cm",
+        "releaseDate": 115.6,
+        "dueDate": 509.6
+    },
+    {
+        "parca": 17,
+        "kenar1": 20.59,
+        "kenar2": 20.59,
+        "yukseklik": 7.1,
+        "alan": 1086.0,
+        "unit": "cm",
+        "releaseDate": 128.4,
+        "dueDate": 294.3
+    },
+    {
+        "parca": 18,
+        "kenar1": 13.47,
+        "kenar2": 13.47,
+        "yukseklik": 25.2,
+        "alan": 3559.2,
+        "unit": "cm",
+        "releaseDate": 132.3,
+        "dueDate": 575.7
+    }
+]
