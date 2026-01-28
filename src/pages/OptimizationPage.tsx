@@ -10,6 +10,7 @@ import { Modal } from '../components/shared/Modal';
 import { DATASET_CONFIG } from '../config/datasetConfig';
 import { exportIterationReport, exportResultsReport, downloadTextFile, generateFilename } from '../utils/reportExport';
 import { ConvergenceChart } from '../components/ConvergenceChart';
+import { AlgorithmAnimation } from '../components/AlgorithmAnimation';
 
 // Dataset imports
 import defaultParts from '../data/parts.json';
@@ -211,6 +212,15 @@ export function OptimizationPage() {
                         <Visualization result={result} />
                     ) : (
                         <ThreeDVisualization result={result} />
+                    )}
+
+                    {/* Algorithm Animation */}
+                    {result.placementLog && (
+                        <AlgorithmAnimation
+                            placementLog={result.placementLog}
+                            machines={machines}
+                            parts={parts}
+                        />
                     )}
                 </div>
             )}
