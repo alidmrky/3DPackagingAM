@@ -4,6 +4,7 @@ import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Controls } from '../components/Controls';
 import { Results } from '../components/Results';
 import { Visualization } from '../components/Visualization';
+import { ThreeDVisualization } from '../components/3DVisualization';
 import { Progress } from '../components/Progress';
 import { Modal } from '../components/shared/Modal';
 import { DATASET_CONFIG } from '../config/datasetConfig';
@@ -37,6 +38,7 @@ export function OptimizationPage() {
     const [showMachinesModal, setShowMachinesModal] = useState(false);
     const [showPartsModal, setShowPartsModal] = useState(false);
     const [progressHistory, setProgressHistory] = useState<GAProgress[]>([]);
+    const [viewMode, setViewMode] = useState<'2d' | '3d'>('3d'); // Default to 3D view
 
     const handleOptimize = (config: GAConfig) => {
         if (parts.length === 0 || machines.length === 0) {
@@ -185,7 +187,31 @@ export function OptimizationPage() {
                         </div>
                     )}
 
-                    <Visualization result={result} />
+                    {/* View Toggle */}
+                    <div className="visualization-header">
+                        <h2>📊 Yerleşim Görselleştirmesi</h2>
+                        <div className="view-toggle">
+                            <button
+                                className={viewMode === '2d' ? 'active' : ''}
+                                onClick={() => setViewMode('2d')}
+                            >
+                                📋 2D Katmanlar
+                            </button>
+                            <button
+                                className={viewMode === '3d' ? 'active' : ''}
+                                onClick={() => setViewMode('3d')}
+                            >
+                                🎨 3D Görünüm
+                            </button>
+                        </div>
+                    </div>
+
+                    {/* Conditional Visualization */}
+                    {viewMode === '2d' ? (
+                        <Visualization result={result} />
+                    ) : (
+                        <ThreeDVisualization result={result} />
+                    )}
                 </div>
             )}
 
